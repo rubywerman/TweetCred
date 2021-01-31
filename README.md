@@ -19,8 +19,10 @@ My steps:
 * I experimented with a few different ways to gather tweets; for simplicity and time sake I used a script that pulls tweets by username, but if I had more time I would write a script that retrieved tweets off of key words and location
 * I created a project in Pybossa and then edited the task HTML script to design what a task might look like to a user
 
+![sample task](https://i.imgur.com/IA7sU1I.png)
+
+
 Credits:
 * I used the paper sited above (“Information Credibility on Twitter | Proceedings of the 20th International Conference on World Wide Web”) to help format what a task might look like
 * I used @anku255's [gist](https://gist.github.com/anku255/0cebd75cce675f2b56de1ef48ec06575) to scrape tweets by a given username 
-
 
