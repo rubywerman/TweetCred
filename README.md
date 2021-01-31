@@ -22,6 +22,8 @@ My steps:
 ![sample task](https://i.imgur.com/cFvGBjR.png | width=100)
 
 
+
+
 Credits:
 * I used the paper sited above (“Information Credibility on Twitter | Proceedings of the 20th International Conference on World Wide Web”) to help format what a task might look like
 * I used @anku255's [gist](https://gist.github.com/anku255/0cebd75cce675f2b56de1ef48ec06575) to scrape tweets by a given username 
