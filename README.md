@@ -19,7 +19,7 @@ My steps:
 * I experimented with a few different ways to gather tweets; for simplicity and time sake I used a script that pulls tweets by username, but if I had more time I would write a script that retrieved tweets off of key words and location
 * I created a project in Pybossa and then edited the task HTML script to design what a task might look like to a user
 
-<img src="https://i.imgur.com/cFvGBjR.png" data-canonical-src="https://i.imgur.com/cFvGBjR.png" width="200" height="400" />
+<img src="https://i.imgur.com/cFvGBjR.png" data-canonical-src="https://i.imgur.com/cFvGBjR.png" width="400" height="200" />
 
 
 
